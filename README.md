@@ -84,16 +84,6 @@ The project achieves [mention accuracy or any other relevant metrics] on the tes
 
 ## Contributing
 I welcome contributions! If you have suggestions, improvements, or new features to add, please fork the repository and submit a pull request.
-
-## License
-This project is under the MIT License.
-
-## Author
-Raghavendran S,  
-Aspiring Data Scientist  
-[LinkedIN Profile](https://www.linkedin.com/in/raghavendransundararajan/)  
-raghavendranhp@gmail.com  
-
 Thank You !  
 Happy Enjoying !
 
